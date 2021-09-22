@@ -1,2 +1,1 @@
-# SyncfusionExamples
-Syncfusion KB
+# Syncfusion KB
